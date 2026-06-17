@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Pas de cache : on évite les versions périmées (voir bouton MAJ) -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>CGP Monitor — Veille cabinets de gestion de patrimoine</title>
+
+    <!-- Inter (Google Fonts) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23EC0000'/%3E%3Ctext x='16' y='23' font-family='Inter,sans-serif' font-size='20' font-weight='700' fill='white' text-anchor='middle'%3EC%3C/text%3E%3C/svg%3E">
+    <meta name="theme-color" content="#EC0000">
+</head>
+<body>
+    <div class="sticky-top">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="header-left">
+                    <h1>CGP Monitor</h1>
+                    <p class="subtitle">Veille cabinets de gestion de patrimoine — France</p>
+                </div>
+                <div class="header-right">
+                    <div class="header-meta">
+                        <div class="last-update" id="lastUpdate">Chargement…</div>
+                        <div class="sync-indicator">
+                            <span class="dot" id="syncDot"></span><span id="syncStatus">Local</span>
+                            &nbsp;·&nbsp;
+                            <span class="dot" id="folkDot"></span><span id="folkStatus" style="cursor:pointer" onclick="openFolkSettings()">Folk Off</span>
+                        </div>
+                    </div>
+                    <div class="header-links">
+                        <button class="btn btn-maj" id="majBtn" onclick="refreshData()" title="Vider le cache et recharger les données">&#x21bb; MAJ</button>
+                        <button class="btn" onclick="openSyncSettings()" title="Synchronisation multi-appareils (GitHub Gist)">Sync</button>
+                        <button class="btn" onclick="openFolkSettings()" title="Configurer la clé API Folk">Folk</button>
+                        <button class="btn btn-primary" onclick="pushFolk()" title="Préparer l'envoi des cabinets marqués vers Folk CRM">Push Folk</button>
+                        <button class="btn" onclick="exportCsv()" title="Exporter les résultats filtrés (format Folk)">CSV</button>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Barre de statistiques (7 tuiles cliquables) -->
+        <div class="stats-bar" id="statsBar">
+            <button class="stat-tile" data-stat="total"    style="--tile-color:var(--blue)">
+                <div class="stat-value" id="stat-total">—</div><div class="stat-label">Total CGP</div></button>
+            <button class="stat-tile" data-stat="new7"     style="--tile-color:var(--blue)">
+                <div class="stat-value" id="stat-new7">—</div><div class="stat-label">Créés &lt; 7j</div></button>
+            <button class="stat-tile" data-stat="new120"   style="--tile-color:var(--blue)">
+                <div class="stat-value" id="stat-new120">—</div><div class="stat-label">Créés &lt; 4 mois</div></button>
+            <button class="stat-tile" data-stat="en_cours" style="--tile-color:var(--orange)">
+                <div class="stat-value" id="stat-en_cours">—</div><div class="stat-label">En cours</div></button>
+            <button class="stat-tile" data-stat="contacte" style="--tile-color:var(--green)">
+                <div class="stat-value" id="stat-contacte">—</div><div class="stat-label">Contactés</div></button>
+            <button class="stat-tile" data-stat="refus"    style="--tile-color:var(--alert-red)">
+                <div class="stat-value" id="stat-refus">—</div><div class="stat-label">Refus</div></button>
+            <button class="stat-tile" data-stat="folk"     style="--tile-color:var(--violet)">
+                <div class="stat-value" id="stat-folk">—</div><div class="stat-label">Dans Folk</div></button>
+        </div>
+
+        <!-- Onglets -->
+        <nav class="tabs" id="tabs">
+            <button class="tab active" data-tab="dashboard">Dashboard</button>
+            <button class="tab" data-tab="annuaire">Annuaire</button>
+            <button class="tab" data-tab="acteurs">Acteurs</button>
+            <button class="tab" data-tab="groupements">Groupements</button>
+        </nav>
+    </div>
+
+    <main>
+        <!-- ===== DASHBOARD ===== -->
+        <section class="tab-panel active" id="tab-dashboard">
+            <h2 class="section-title">Répartition par association</h2>
+            <p class="section-sub">Chaque cabinet est compté dans une seule association (priorité CNCGP &gt; CNCEF &gt; ANACOFI). La somme égale le total des CGP consultables.</p>
+            <div class="assoc-cards" id="assocCards"></div>
+
+            <h2 class="section-title">Derniers nouveaux CGP détectés</h2>
+            <div class="new-list" id="newMembersList"></div>
+        </section>
+
+        <!-- ===== ANNUAIRE ===== -->
+        <section class="tab-panel" id="tab-annuaire">
+            <div class="toolbar">
+                <input type="text" class="search-input" id="searchInput" placeholder="Rechercher un cabinet, dirigeant, ville, SIREN…">
+                <button class="btn" id="toggleFiltersBtn" onclick="toggleFilters()">+ Filtres</button>
+            </div>
+
+            <div class="filters-panel" id="filtersPanel">
+                <div class="filters-grid">
+                    <div class="filter-field"><label>Association</label>
+                        <select id="f-assoc"><option value="">Toutes</option>
+                            <option value="cncgp">CNCGP</option>
+                            <option value="cncef">CNCEF</option>
+                            <option value="anacofi">ANACOFI</option>
+                            <option value="other">Hors association</option>
+                        </select></div>
+                    <div class="filter-field"><label>Département</label><select id="f-dept"></select></div>
+                    <div class="filter-field"><label>Activité</label>
+                        <select id="f-activity"><option value="">Toutes</option>
+                            <option value="CIF">CIF</option><option value="COA">COA</option>
+                            <option value="IOBSP">IOBSP</option><option value="Immobilier">Immobilier</option>
+                        </select></div>
+                    <div class="filter-field"><label>Statut</label>
+                        <select id="f-status"><option value="">Tous</option>
+                            <option value="en_cours">En cours</option>
+                            <option value="contacte">Contacté</option>
+                            <option value="refus">Refus</option>
+                            <option value="none">Sans statut</option>
+                        </select></div>
+                    <div class="filter-field"><label>Groupement</label><select id="f-groupement"></select></div>
+                    <div class="filter-field"><label>Date de création</label>
+                        <select id="f-creation"><option value="">Toutes</option>
+                            <option value="7j">&lt; 7 jours</option>
+                            <option value="1mois">&lt; 1 mois</option>
+                            <option value="4mois">&lt; 4 mois</option>
+                            <option value="1an">&lt; 1 an</option>
+                        </select></div>
+                    <div class="filter-field"><label>Chiffre d'affaires</label>
+                        <select id="f-ca"><option value="">Tous</option>
+                            <option value="0-100000">&lt; 100 k€</option>
+                            <option value="100000-500000">100 k€ – 500 k€</option>
+                            <option value="500000-1000000">500 k€ – 1 M€</option>
+                            <option value="1000000-5000000">1 M€ – 5 M€</option>
+                            <option value="5000000-">&gt; 5 M€</option>
+                        </select></div>
+                    <div class="filter-field"><label>Encours (AUM)</label>
+                        <select id="f-aum"><option value="">Tous</option>
+                            <option value="0-10000000">&lt; 10 M€</option>
+                            <option value="10000000-50000000">10 M€ – 50 M€</option>
+                            <option value="50000000-200000000">50 M€ – 200 M€</option>
+                            <option value="200000000-">&gt; 200 M€</option>
+                        </select></div>
+                    <div class="filter-field"><label>Structure</label>
+                        <select id="f-structure"><option value="">Toutes</option>
+                            <option value="PME">PME</option><option value="ETI">ETI</option><option value="GE">Grande entreprise</option>
+                        </select></div>
+                    <div class="filter-field"><label>Expertise</label><select id="f-expertise"></select></div>
+                </div>
+                <div class="filters-actions">
+                    <button class="btn" onclick="resetFilters()">Réinitialiser</button>
+                </div>
+            </div>
+
+            <div class="results-meta">
+                <div><strong id="resultsCount">0</strong> cabinet(s) · triés par date de création (récents d'abord)</div>
+                <div id="activeFilterNote"></div>
+            </div>
+            <div class="results-list" id="resultsList"></div>
+            <div class="load-more-wrap"><button class="btn" id="loadMoreBtn" onclick="loadMore()" style="display:none">Charger plus</button></div>
+        </section>
+
+        <!-- ===== ACTEURS ===== -->
+        <section class="tab-panel" id="tab-acteurs">
+            <div class="toolbar">
+                <input type="text" class="search-input" id="acteursSearch" placeholder="Rechercher une entité, un réseau, une plateforme…">
+                <button class="btn" id="acteursToggleBtn" onclick="toggleActeursFilters()">+ Filtres</button>
+            </div>
+            <div class="filters-panel" id="acteursFilters">
+                <div class="filters-grid">
+                    <div class="filter-field"><label>Catégorie</label><select id="f-acteur-cat"><option value="">Toutes</option></select></div>
+                    <div class="filter-field"><label>Pertinence CMF</label>
+                        <select id="f-acteur-pert"><option value="">Toutes</option>
+                            <option value="TRÈS HAUTE">Très haute</option>
+                            <option value="HAUTE">Haute</option>
+                            <option value="MOYENNE">Moyenne</option>
+                        </select></div>
+                </div>
+            </div>
+            <div id="acteursContent"></div>
+        </section>
+
+        <!-- ===== GROUPEMENTS ===== -->
+        <section class="tab-panel" id="tab-groupements">
+            <div class="toolbar">
+                <input type="text" class="search-input" id="groupementsSearch" placeholder="Rechercher un groupement, un réseau…">
+                <button class="btn" id="groupToggleBtn" onclick="toggleGroupFilters()">+ Filtres</button>
+            </div>
+            <div class="filters-panel" id="groupFilters">
+                <div class="filters-grid">
+                    <div class="filter-field"><label>Type</label><select id="f-group-type"><option value="">Tous</option></select></div>
+                </div>
+            </div>
+            <div id="groupementsContent"></div>
+        </section>
+    </main>
+
+    <!-- ===== MODAL SYNC ===== -->
+    <div class="modal-overlay" id="syncModal">
+        <div class="modal">
+            <h3>Synchronisation multi-appareils</h3>
+            <p>Vos statuts et marquages Folk sont synchronisés via un Gist GitHub privé. Configurez-le une fois sur chaque appareil.</p>
+            <label>Gist ID</label>
+            <input type="text" id="syncGistId" placeholder="ex. 8f3a2b1c… (la chaîne après le /)">
+            <label>Token GitHub (scope « gist »)</label>
+            <input type="password" id="syncToken" placeholder="ghp_…">
+            <div class="modal-actions">
+                <button class="btn" onclick="clearSyncSettings()">Effacer</button>
+                <button class="btn" onclick="closeModal('syncModal')">Annuler</button>
+                <button class="btn btn-primary" onclick="saveSyncSettings()">Enregistrer</button>
+            </div>
+            <div class="modal-help">Créez un Gist privé sur <code>gist.github.com</code> avec un fichier <code>cgp-monitor-state.json</code>, puis collez son ID et un token GitHub disposant du scope <code>gist</code>.</div>
+        </div>
+    </div>
+
+    <!-- ===== MODAL FOLK ===== -->
+    <div class="modal-overlay" id="folkModal">
+        <div class="modal">
+            <h3>Folk CRM</h3>
+            <p>L'envoi vers Folk se fait côté serveur (le navigateur ne peut pas appeler l'API Folk — CORS). La clé est conservée localement.</p>
+            <label>Clé API Folk</label>
+            <input type="password" id="folkApiKeyInput" placeholder="FOLK…">
+            <div class="modal-actions">
+                <button class="btn" onclick="clearFolkSettings()">Effacer</button>
+                <button class="btn" onclick="closeModal('folkModal')">Annuler</button>
+                <button class="btn btn-primary" onclick="saveFolkSettings()">Enregistrer</button>
+            </div>
+            <div class="modal-help">Marquez les cabinets à pousser via le toggle « Folk » sur chaque fiche, puis cliquez sur <code>Push Folk</code> pour préparer l'envoi (workflow <code>folk-push.yml</code>).</div>
+        </div>
+    </div>
+
+    <script src="app.js" defer></script>
+</body>
+</html>
