@@ -1,82 +1,82 @@
 {
-  "total_members": 7190,
-  "new_today": 37,
-  "new_this_week": 98,
-  "new_this_month": 231,
+  "total_members": 7216,
+  "new_today": 26,
+  "new_this_week": 63,
+  "new_this_month": 257,
   "by_association": {
-    "cncef": 4766,
-    "cncgp": 2528,
+    "cncef": 4784,
+    "cncgp": 2540,
     "affo": 20
   },
   "by_activity": {
-    "CIF": 4096,
-    "COA": 4085,
-    "IOBSP": 1878,
-    "Immobilier": 957
+    "COA": 4103,
+    "IOBSP": 1885,
+    "Immobilier": 962,
+    "CIF": 4112
   },
   "by_department": {
-    "75": 1135,
-    "69": 404,
-    "33": 293,
-    "92": 291,
+    "75": 1139,
+    "69": 407,
+    "33": 296,
+    "92": 293,
     "13": 282,
     "44": 232,
-    "31": 211,
+    "31": 212,
     "06": 211,
-    "34": 193,
+    "34": 196,
     "59": 179,
     "78": 172,
     "37": 163,
-    "38": 142,
-    "83": 138,
-    "94": 106,
+    "38": 143,
+    "83": 139,
     "67": 106,
+    "94": 106,
     "35": 101,
-    "74": 100,
-    "64": 100,
+    "64": 101,
+    "74": 101,
     "21": 99
   },
   "total_departments": 99,
   "scrape_status": {
     "cncef": {
       "status": "success",
-      "count": 4797,
-      "timestamp": "2026-07-21T12:09:23.605053+00:00",
-      "duration_s": 1904.3
+      "count": 4794,
+      "timestamp": "2026-07-28T08:13:23.955874+00:00",
+      "duration_s": 1255.0
     },
     "cncgp": {
       "status": "success",
-      "count": 2650,
-      "timestamp": "2026-07-21T12:09:23.605053+00:00",
-      "duration_s": 559.2
+      "count": 2656,
+      "timestamp": "2026-07-28T08:13:23.955874+00:00",
+      "duration_s": 559.5
     },
     "anacofi": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-21T12:09:23.605053+00:00",
-      "duration_s": 4.1
+      "timestamp": "2026-07-28T08:13:23.955874+00:00",
+      "duration_s": 4.0
     },
     "affo": {
       "status": "success",
       "count": 20,
-      "timestamp": "2026-07-21T12:09:23.605053+00:00",
-      "duration_s": 1.5
+      "timestamp": "2026-07-28T08:13:23.955874+00:00",
+      "duration_s": 4.2
     },
     "datagouv_enrichment": {
       "status": "success",
-      "duration_s": 2658.1,
-      "timestamp": "2026-07-21T12:09:23.605053+00:00"
+      "duration_s": 3900.6,
+      "timestamp": "2026-07-28T08:13:23.955874+00:00"
     },
     "orias_enrichment": {
       "status": "success",
-      "duration_s": 1740.4,
-      "timestamp": "2026-07-21T12:09:23.605053+00:00"
+      "duration_s": 1720.6,
+      "timestamp": "2026-07-28T08:13:23.955874+00:00"
     },
     "email_enrichment": {
       "status": "success",
-      "duration_s": 39.6,
-      "timestamp": "2026-07-21T12:09:23.605053+00:00"
+      "duration_s": 40.9,
+      "timestamp": "2026-07-28T08:13:23.955874+00:00"
     }
   },
-  "last_updated": "2026-07-21T12:09:23.605053+00:00"
+  "last_updated": "2026-07-28T08:13:23.955874+00:00"
 }
