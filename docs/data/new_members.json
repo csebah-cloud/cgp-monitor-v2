@@ -1,303 +1,196 @@
 {
-  "last_updated": "2026-08-04",
-  "count": 19,
+  "last_updated": "2026-08-11",
+  "count": 12,
   "new_members": [
     {
-      "id": "cgp_fcd35dfe9b",
-      "company_name": "AB CONSEILS ET INVESTISSEMENTS",
-      "city": "Gard",
-      "department": "30",
+      "id": "cgp_9d7dd9216a",
+      "company_name": "GIMCOVERMEILLE AGENCE DE LA GARE",
+      "city": "Yvelines",
+      "department": "78",
       "activities": [
-        "COA",
-        "IOBSP"
+        "COA"
       ],
       "associations": [
         "cncef"
       ],
-      "first_seen": "2026-08-04",
+      "first_seen": "2026-08-11",
       "phone": "",
       "email": ""
     },
     {
-      "id": "cgp_aef9425050",
-      "company_name": "VULLIOD LOULI",
-      "city": "Rhône-Alpes",
-      "department": "69",
+      "id": "cgp_49b53f37e6",
+      "company_name": "PROTECTION PLURIEL NORD BASSIN",
+      "city": "Gironde",
+      "department": "33",
       "activities": [
-        "COA",
+        "COA"
+      ],
+      "associations": [
+        "cncef"
+      ],
+      "first_seen": "2026-08-11",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "cgp_3f5146f3fc",
+      "company_name": "MS CONSEILS",
+      "city": "Indre et Loire",
+      "department": "37",
+      "activities": [
+        "Immobilier",
         "IOBSP",
-        "Immobilier",
-        "CIF"
-      ],
-      "associations": [
-        "cncef"
-      ],
-      "first_seen": "2026-08-04",
-      "phone": "",
-      "email": ""
-    },
-    {
-      "id": "cgp_daa5f4620b",
-      "company_name": "CALLIOPEE PATRIMOINE",
-      "city": "Bouches du Rhône",
-      "department": "13",
-      "activities": [
-        "COA",
-        "Immobilier",
-        "CIF"
-      ],
-      "associations": [
-        "cncef"
-      ],
-      "first_seen": "2026-08-04",
-      "phone": "",
-      "email": ""
-    },
-    {
-      "id": "cgp_0f5d8ac2cf",
-      "company_name": "CARDEA PATRIMOINE",
-      "city": "Paris",
-      "department": "75",
-      "activities": [
-        "COA",
         "CIF",
-        "IOBSP"
-      ],
-      "associations": [
-        "cncef"
-      ],
-      "first_seen": "2026-08-04",
-      "phone": "",
-      "email": ""
-    },
-    {
-      "id": "cgp_30e8d3d988",
-      "company_name": "A2T FINANCES",
-      "city": "Hauts de Seine",
-      "department": "92",
-      "activities": [
-        "COA",
-        "CIF"
-      ],
-      "associations": [
-        "cncef"
-      ],
-      "first_seen": "2026-08-04",
-      "phone": "",
-      "email": ""
-    },
-    {
-      "id": "cgp_461b3f6d0d",
-      "company_name": "3A ASSURANCES",
-      "city": "Côte d'Or",
-      "department": "21",
-      "activities": [
         "COA"
       ],
       "associations": [
-        "cncef"
+        "cncef",
+        "cncgp"
       ],
-      "first_seen": "2026-08-04",
-      "phone": "",
+      "first_seen": "2026-08-11",
+      "phone": "+33610070860",
       "email": ""
     },
     {
-      "id": "cgp_6213295562",
-      "company_name": "DH COURTAGE",
-      "city": "Pas de Calais",
-      "department": "62",
+      "id": "cgp_bdeb0f5f46",
+      "company_name": "CS COURTAGE",
+      "city": "Finistère",
+      "department": "29",
       "activities": [
-        "COA",
         "IOBSP"
       ],
       "associations": [
         "cncef"
       ],
-      "first_seen": "2026-08-04",
+      "first_seen": "2026-08-11",
       "phone": "",
       "email": ""
     },
     {
-      "id": "cgp_0303365fd0",
-      "company_name": "CHATEL PATRIMOINE",
-      "city": "Paris",
-      "department": "75",
+      "id": "cgp_2e14e9d28f",
+      "company_name": "COSTE CONRAD",
+      "city": "Saône et Loire",
+      "department": "71",
       "activities": [
         "COA",
         "IOBSP",
+        "Immobilier",
         "CIF"
       ],
       "associations": [
         "cncef"
       ],
-      "first_seen": "2026-08-04",
+      "first_seen": "2026-08-11",
       "phone": "",
       "email": ""
     },
     {
-      "id": "cgp_b2b889b2f8",
-      "company_name": "A2T CONSULTING",
-      "city": "Hauts de Seine",
-      "department": "92",
+      "id": "cgp_63980ab2db",
+      "company_name": "D.G.R SOCHG",
+      "city": "Paris",
+      "department": "75",
       "activities": [
-        "COA"
+        "CIF"
       ],
       "associations": [
         "cncef"
       ],
-      "first_seen": "2026-08-04",
+      "first_seen": "2026-08-11",
       "phone": "",
       "email": ""
     },
     {
-      "id": "cgp_9b4bbdc73f",
-      "company_name": "FINANCIÈRE DU NORD",
-      "city": "Nord",
-      "department": "59",
-      "activities": [
-        "IOBSP"
-      ],
-      "associations": [
-        "cncef"
-      ],
-      "first_seen": "2026-08-04",
-      "phone": "",
-      "email": ""
-    },
-    {
-      "id": "cgp_6afbf5036b",
-      "company_name": "AEVOM",
-      "city": "Toulouse",
-      "department": "31",
-      "activities": [
-        "CIF"
-      ],
-      "associations": [
-        "cncgp"
-      ],
-      "first_seen": "2026-08-04",
-      "phone": "+33681380481",
-      "email": "cpetersen@aevom-groupe.com"
-    },
-    {
-      "id": "cgp_ea88a754b7",
-      "company_name": "HESTIA'VENIR & PATRIMOINE",
-      "city": "Nantes",
-      "department": "44",
-      "activities": [
-        "CIF"
-      ],
-      "associations": [
-        "cncgp"
-      ],
-      "first_seen": "2026-08-04",
-      "phone": "+33174344057",
-      "email": "remy.asophie@gmail.com"
-    },
-    {
-      "id": "cgp_69ec146dd2",
-      "company_name": "LA MANUFACTURE",
-      "city": "Paris",
-      "department": "75",
-      "activities": [
-        "CIF"
-      ],
-      "associations": [
-        "cncgp"
-      ],
-      "first_seen": "2026-08-04",
-      "phone": "+33681958387",
-      "email": "contact@lesentrepreteurs.com"
-    },
-    {
-      "id": "cgp_f1dfa1f34b",
-      "company_name": "NOVA PATRIMOINE",
-      "city": "Paris",
-      "department": "75",
-      "activities": [
-        "CIF"
-      ],
-      "associations": [
-        "cncgp"
-      ],
-      "first_seen": "2026-08-04",
-      "phone": "+33614015709",
-      "email": "pouneh.pourzand@nova-wm.fr"
-    },
-    {
-      "id": "cgp_05e2832f0b",
-      "company_name": "PHARAÔ PATRIMOINE",
-      "city": "Paris",
-      "department": "75",
-      "activities": [
-        "CIF"
-      ],
-      "associations": [
-        "cncgp"
-      ],
-      "first_seen": "2026-08-04",
-      "phone": "+33145250506",
-      "email": "pharao@pharaopatrimoine.com"
-    },
-    {
-      "id": "cgp_0595bba754",
-      "company_name": "TAIRAM PATRIMOINE",
-      "city": "Paris",
-      "department": "75",
-      "activities": [
-        "CIF"
-      ],
-      "associations": [
-        "cncgp"
-      ],
-      "first_seen": "2026-08-04",
-      "phone": "+33670804006",
-      "email": "olivier.berthelot@tairampatrimoine.fr"
-    },
-    {
-      "id": "cgp_e8e300d8e6",
-      "company_name": "UNI PATRIMOINE",
-      "city": "Caen",
-      "department": "14",
-      "activities": [
-        "CIF"
-      ],
-      "associations": [
-        "cncgp"
-      ],
-      "first_seen": "2026-08-04",
-      "phone": "+33671304213",
-      "email": ""
-    },
-    {
-      "id": "cgp_7b3fd1dabe",
-      "company_name": "LA FINANCIERE DES BOIS NOIRS",
-      "city": "Chabreloche",
-      "department": "63",
-      "activities": [
-        "CIF"
-      ],
-      "associations": [
-        "cncgp"
-      ],
-      "first_seen": "2026-08-04",
-      "phone": "+33680968482",
-      "email": "contact@lafinancieredesboisnoirs.com"
-    },
-    {
-      "id": "cgp_7eb396fcad",
-      "company_name": "LE PHARE ASSURANCE",
-      "city": "Ramatuelle",
+      "id": "cgp_1ee3fb473d",
+      "company_name": "D.G.R CONSEIL FINANCIER",
+      "city": "Var",
       "department": "83",
       "activities": [
+        "COA",
+        "IOBSP",
+        "Immobilier",
+        "CIF"
+      ],
+      "associations": [
+        "cncef"
+      ],
+      "first_seen": "2026-08-11",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "cgp_a86e40ba05",
+      "company_name": "LUC ETIENNE CONSEIL PATRIMONIAL",
+      "city": "Cannes",
+      "department": "06",
+      "activities": [
         "CIF"
       ],
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-08-04",
-      "phone": "+33648248608",
-      "email": "freddella@hotmail.com"
+      "first_seen": "2026-08-11",
+      "phone": "+33982344731",
+      "email": "54lucetienne@gmail.com"
+    },
+    {
+      "id": "cgp_edf0ef02ef",
+      "company_name": "Arven Patrimoine",
+      "city": "Crolles",
+      "department": "38",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-08-11",
+      "phone": "+33695009787",
+      "email": "mathis.salmon.crolles@gmail.com"
+    },
+    {
+      "id": "cgp_e44fbb6f84",
+      "company_name": "RB2M LIFE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-08-11",
+      "phone": "+33187667496",
+      "email": "contact@monceaupatrimoine.fr"
+    },
+    {
+      "id": "cgp_b7df91b66b",
+      "company_name": "BLUMARA",
+      "city": "Neuilly Sur Seine",
+      "department": "92",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-08-11",
+      "phone": "+33687454484",
+      "email": "chichebenjamin@gmail.com"
+    },
+    {
+      "id": "cgp_e0e47a2498",
+      "company_name": "COFIDEST GESTION PRIVEE",
+      "city": "Thonon-Les-Bains",
+      "department": "74",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-08-11",
+      "phone": "+33626626618",
+      "email": "ludovic.jubert@privalp.com"
     }
   ]
 }
