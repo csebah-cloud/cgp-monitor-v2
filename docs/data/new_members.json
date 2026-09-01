@@ -1,124 +1,865 @@
 {
-  "last_updated": "2026-08-25",
-  "count": 8,
+  "last_updated": "2026-09-01",
+  "count": 118,
   "new_members": [
     {
-      "id": "cgp_284ab7c8f5",
-      "company_name": "TUTASSUR",
-      "city": "Isère",
-      "department": "38",
-      "activities": [
-        "COA",
-        "IOBSP"
-      ],
-      "associations": [
-        "cncef"
-      ],
-      "first_seen": "2026-08-25",
-      "phone": "",
-      "email": ""
-    },
-    {
-      "id": "cgp_5da72234de",
-      "company_name": "OPTIMA",
-      "city": "VERSAILLES",
-      "department": "78",
-      "activities": [
-        "COA"
-      ],
-      "associations": [
-        "cncef"
-      ],
-      "first_seen": "2026-08-25",
-      "phone": "",
-      "email": ""
-    },
-    {
-      "id": "cgp_e887777b3e",
-      "company_name": "PB  COURTAGE",
-      "city": "Paris",
-      "department": "75",
-      "activities": [
-        "CIF",
-        "COA",
-        "IOBSP"
-      ],
-      "associations": [
-        "cncef",
-        "cncgp"
-      ],
-      "first_seen": "2026-08-25",
-      "phone": "",
-      "email": ""
-    },
-    {
-      "id": "cgp_a577403d9f",
-      "company_name": "C&R PATRIMOINE",
-      "city": "Hérault",
-      "department": "34",
-      "activities": [
-        "CIF",
-        "COA"
-      ],
-      "associations": [
-        "cncef",
-        "cncgp"
-      ],
-      "first_seen": "2026-08-25",
-      "phone": "+33677747031",
-      "email": "contact@roquecapital.fr"
-    },
-    {
-      "id": "cgp_cfeb0d1795",
-      "company_name": "Finance Nomade",
-      "city": "Drôme",
-      "department": "26",
-      "activities": [
-        "COA",
-        "CIF"
-      ],
-      "associations": [
-        "cncef"
-      ],
-      "first_seen": "2026-08-25",
-      "phone": "",
-      "email": ""
-    },
-    {
-      "id": "cgp_78f0945a0d",
-      "company_name": "ZEPHIR PATRIMOINE INVESTISSEMENTS",
-      "city": "Alpes Maritimes",
+      "id": "cgp_8eb772b4f9",
+      "company_name": "BJ FINANCE",
+      "city": "Mandelieu-La-Napoule",
       "department": "06",
       "activities": [
-        "CIF",
-        "COA"
+        "CIF"
       ],
       "associations": [
-        "cncef",
         "cncgp"
       ],
-      "first_seen": "2026-08-25",
-      "phone": "+33493822526",
-      "email": "cesarlayet@hotmail.com"
+      "first_seen": "2026-09-01",
+      "phone": "+33661253881",
+      "email": "benoit.jamet@bj-finance.com"
     },
     {
-      "id": "cgp_f5306eee2e",
-      "company_name": "SNVD SOCIETE NOUVELLE DE VENTE DIRECTE",
-      "city": "Paris",
-      "department": "75",
+      "id": "cgp_dc09830a72",
+      "company_name": "CDR PATRIMOINE",
+      "city": "Nice",
+      "department": "06",
       "activities": [
-        "COA"
+        "CIF"
       ],
       "associations": [
-        "cncef"
+        "cncgp"
       ],
-      "first_seen": "2026-08-25",
-      "phone": "",
+      "first_seen": "2026-09-01",
+      "phone": "+33493629703",
+      "email": "direction@cdrpatrimoine.com"
+    },
+    {
+      "id": "cgp_3fd9da7c46",
+      "company_name": "EURO PATRIMOINE INVESTISSEMENT",
+      "city": "Nice",
+      "department": "06",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33493822526",
+      "email": "epi@episa.net"
+    },
+    {
+      "id": "cgp_562c23f1de",
+      "company_name": "M PATRIMOINE",
+      "city": "Nice",
+      "department": "06",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33672947031",
       "email": ""
     },
     {
-      "id": "cgp_1125483c56",
-      "company_name": "ARCLINES CAPITAL",
+      "id": "cgp_06cd7f0e82",
+      "company_name": "A G CONSEILS",
+      "city": "Cassis",
+      "department": "13",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33684612720",
+      "email": ""
+    },
+    {
+      "id": "cgp_a8a92f8295",
+      "company_name": "AGM CONSULTING",
+      "city": "Marseille",
+      "department": "13",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33630771804",
+      "email": "contact@agm-consulting.fr"
+    },
+    {
+      "id": "cgp_96fa05aa20",
+      "company_name": "ATM CONSEIL",
+      "city": "Aix-En-Provence",
+      "department": "13",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33664282597",
+      "email": "contact@atmpatrimoine.fr"
+    },
+    {
+      "id": "cgp_462a0a04c3",
+      "company_name": "Delmas Gestion Privée",
+      "city": "Aix En Provence",
+      "department": "13",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33699057673",
+      "email": "alexdelmas@outlook.com"
+    },
+    {
+      "id": "cgp_0c92eb13d4",
+      "company_name": "HESTIA GESTION PRIVEE",
+      "city": "Marseille",
+      "department": "13",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33638394342",
+      "email": "contact@hestia-gestionprivee.fr"
+    },
+    {
+      "id": "cgp_87c10d7a73",
+      "company_name": "MLASSUR",
+      "city": "Aix-En-Provence",
+      "department": "13",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33442289151",
+      "email": ""
+    },
+    {
+      "id": "cgp_203bb43a45",
+      "company_name": "OC PATRIMOINE",
+      "city": "Aix-En-Provence",
+      "department": "13",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33614612311",
+      "email": "ocarron@gmail.com"
+    },
+    {
+      "id": "cgp_3e5456915b",
+      "company_name": "OCTAVE GESTION PRIVEE",
+      "city": "Éguilles",
+      "department": "13",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33620203206",
+      "email": ""
+    },
+    {
+      "id": "cgp_367f5ecea3",
+      "company_name": "SPC CONSULTING",
+      "city": "Marseille",
+      "department": "13",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33600010101",
+      "email": "spcconsultingcgp@gmail.com"
+    },
+    {
+      "id": "cgp_083e8a5d11",
+      "company_name": "A2G+ PATRIMOINE",
+      "city": "Toulouse",
+      "department": "31",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33621437686",
+      "email": "cabinet@a2gplus.fr"
+    },
+    {
+      "id": "cgp_711843f50f",
+      "company_name": "BLUE WEALTH MANAGEMENT",
+      "city": "Villaries",
+      "department": "31",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33608607935",
+      "email": "frederic.bex@blue-wealth-management.fr"
+    },
+    {
+      "id": "cgp_d8a5efd123",
+      "company_name": "FD CONSEIL PRIVE",
+      "city": "Toulouse",
+      "department": "31",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33669015625",
+      "email": "florent.debat@conseil-prive.fr"
+    },
+    {
+      "id": "cgp_420941e60a",
+      "company_name": "FORTUNEA INVEST",
+      "city": "Ramonville-Saint-Agne",
+      "department": "31",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33615513689",
+      "email": ""
+    },
+    {
+      "id": "cgp_3cb91f21b0",
+      "company_name": "GMO CONSEIL ET PATRIMOINE",
+      "city": "Montastruc-La-Conseillère",
+      "department": "31",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33616554380",
+      "email": "frederic.meites@gmo-conseil.fr"
+    },
+    {
+      "id": "cgp_86c51b9ccc",
+      "company_name": "VS CONSEILS",
+      "city": "Toulouse",
+      "department": "31",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33685695673",
+      "email": "xavier.viricel@vs-conseils.com"
+    },
+    {
+      "id": "cgp_41c2ad0ef9",
+      "company_name": "A D PATRIMOINE",
+      "city": "Bordeaux",
+      "department": "33",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33557816188",
+      "email": "contact@adpatrimoine.fr"
+    },
+    {
+      "id": "cgp_a9969010ee",
+      "company_name": "ALTOS FINANCE CONSEIL",
+      "city": "Lanton",
+      "department": "33",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33627311778",
+      "email": "contact@altosfinanceconseil.fr"
+    },
+    {
+      "id": "cgp_ebc67f0a98",
+      "company_name": "DOC CONSEIL",
+      "city": "Bordeaux",
+      "department": "33",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33625304206",
+      "email": "contact@docconseil.fr"
+    },
+    {
+      "id": "cgp_278616d356",
+      "company_name": "EDOS INVESTISSEMENTS",
+      "city": "Gujan-Mestras",
+      "department": "33",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33764085940",
+      "email": "contact@edosinvestissements.com"
+    },
+    {
+      "id": "cgp_343e42c264",
+      "company_name": "ETHIK CONSEIL & PATRIMOINE",
+      "city": "Bordeaux",
+      "department": "33",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33625304206",
+      "email": "contact@ethikconseilpatrimoine.fr"
+    },
+    {
+      "id": "cgp_844904511e",
+      "company_name": "MCC PATRIMOINE",
+      "city": "Bordeaux",
+      "department": "33",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33547488744",
+      "email": "contact@mccpatrimoine.com"
+    },
+    {
+      "id": "cgp_8b38ff2bb3",
+      "company_name": "CE CONSEIL",
+      "city": "Béziers",
+      "department": "34",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33682678623",
+      "email": "cyril.escande@ceconseil.fr"
+    },
+    {
+      "id": "cgp_2c6f8d8f3f",
+      "company_name": "GS CONSEILS",
+      "city": "Jacou",
+      "department": "34",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33499581904",
+      "email": "contact@groupesarro.com"
+    },
+    {
+      "id": "cgp_75ece6db0d",
+      "company_name": "NEOLYS PATRIMOINE",
+      "city": "Catelnau-Le -Lez",
+      "department": "34",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33698573532",
+      "email": "contact@neolys-patrimoine.fr"
+    },
+    {
+      "id": "cgp_3c8a6cb7ec",
+      "company_name": "OG2J PATRIMOINE",
+      "city": "Jacou",
+      "department": "34",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33499581904",
+      "email": "ahumez@groupesarro.com"
+    },
+    {
+      "id": "cgp_c14334059f",
+      "company_name": "AELIS GESTION PRIVEE",
+      "city": "35000\n\t\t\t\t\t\t\t\t\t\t\t\t\tRennes",
+      "department": "73",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33299231858",
+      "email": ""
+    },
+    {
+      "id": "cgp_4916c7e2df",
+      "company_name": "SG COURTAGE",
+      "city": "Montreuil Le Gast",
+      "department": "35",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33676923035",
+      "email": ""
+    },
+    {
+      "id": "cgp_92bf03a353",
+      "company_name": "AFC PATRIMOINE",
+      "city": "Grenoble",
+      "department": "38",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33983704607",
+      "email": "contact@afcpatrimoine.com"
+    },
+    {
+      "id": "cgp_be92a7e632",
+      "company_name": "DS PATRIMOINE CONSEIL",
+      "city": "Bourgoin Jallieu",
+      "department": "38",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33616745506",
+      "email": "infos@dsfinances.com"
+    },
+    {
+      "id": "cgp_0f97d296b9",
+      "company_name": "MV PATRIMOINE",
+      "city": "Meylan",
+      "department": "38",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33476633590",
+      "email": "accueil@mvpatrimoine.fr"
+    },
+    {
+      "id": "cgp_1c295a07db",
+      "company_name": "AM CONSEILS",
+      "city": "Nantes",
+      "department": "44",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33663671359",
+      "email": "maximeberthet@a-mconseils.fr"
+    },
+    {
+      "id": "cgp_e67799c1de",
+      "company_name": "B.C. CONSEIL",
+      "city": "Nantes",
+      "department": "44",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33240082661",
+      "email": ""
+    },
+    {
+      "id": "cgp_1b7f12e807",
+      "company_name": "B2R PATRIMOINE",
+      "city": "Saint Herblain",
+      "department": "44",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33643254341",
+      "email": "contact@b2rpatrimoine.com"
+    },
+    {
+      "id": "cgp_a03dcda090",
+      "company_name": "CEB COURTAGE",
+      "city": "Chateaubriant Cedex",
+      "department": "44",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33240812888",
+      "email": ""
+    },
+    {
+      "id": "cgp_3fd7fee5ed",
+      "company_name": "CV PATRIMOINE",
+      "city": "Pornic",
+      "department": "44",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33975284935",
+      "email": "contact@cvpatrimoine.fr"
+    },
+    {
+      "id": "cgp_2f8cc9b6fe",
+      "company_name": "REWARD PATRIMOINE",
+      "city": "Strasbourg",
+      "department": "67",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33643275062",
+      "email": "ad@rewardpatrimoine.fr"
+    },
+    {
+      "id": "cgp_1f971a3cb1",
+      "company_name": "ACTI PATRIMOINE",
+      "city": "Villeurbanne",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33614810470",
+      "email": "c.lefevre@actiexpert.fr"
+    },
+    {
+      "id": "cgp_0670f251d2",
+      "company_name": "ADL CONSEILS & PATRIMOINE",
+      "city": "Anse",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33679129387",
+      "email": "contact@adl-patrimoine.fr"
+    },
+    {
+      "id": "cgp_68a56d542e",
+      "company_name": "AMT Gestion Privée",
+      "city": "Saint Laurent De Mure",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33672333120",
+      "email": "aurelien.socie-amtgp@outlook.com"
+    },
+    {
+      "id": "cgp_fa9de9d163",
+      "company_name": "ARIAS PATRIMOINE",
+      "city": "Lyon",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33483435755",
+      "email": "contact@arias-patrimoine.fr"
+    },
+    {
+      "id": "cgp_5f3f285fcf",
+      "company_name": "AVISIO GESTION PRIVEE",
+      "city": "Lyon",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33660790996",
+      "email": ""
+    },
+    {
+      "id": "cgp_8834990d48",
+      "company_name": "CSB PATRIMOINE CONSEIL",
+      "city": "Champagne-Au-Mont-D'Or",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33661819046",
+      "email": "csb.patrimoineconseil@gmail.com"
+    },
+    {
+      "id": "cgp_431baaea15",
+      "company_name": "DIMM PATRIMOINE",
+      "city": "Lentilly",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33603728563",
+      "email": "jm.iacovella@gmail.com"
+    },
+    {
+      "id": "cgp_b88db3f1ec",
+      "company_name": "HERITIER GESTION PRIVÉE",
+      "city": "Brignais",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33478598553",
+      "email": "contact@heritiergp.fr"
+    },
+    {
+      "id": "cgp_358d9a9106",
+      "company_name": "HESTYA GESTION PRIVEE",
+      "city": "Bron",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33695356382",
+      "email": "frederickperetto@hestyagp.net"
+    },
+    {
+      "id": "cgp_3a7306ef83",
+      "company_name": "JBA CONSEIL",
+      "city": "Limonest",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33607011881",
+      "email": "jose.zaraya@cyrusconseil.fr"
+    },
+    {
+      "id": "cgp_8f41ea2322",
+      "company_name": "JNE CONSEILS",
+      "city": "Lyon",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33627266096",
+      "email": "contact@jneconseils.com"
+    },
+    {
+      "id": "cgp_64d9bbbd36",
+      "company_name": "LENA PATRIMOINE",
+      "city": "Lyon",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33478485604",
+      "email": "b.bonnier@orange.fr"
+    },
+    {
+      "id": "cgp_e2300a23f6",
+      "company_name": "MDO FINANCE",
+      "city": "Saint-Cyr-Au-Mont-D'Or",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33768446953",
+      "email": "m.queruel@mdofinance.fr"
+    },
+    {
+      "id": "cgp_fe5905991f",
+      "company_name": "REINACH GESTION PRIVEE",
+      "city": "Lyon",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33663692910",
+      "email": "alexis@reinach-gp.fr"
+    },
+    {
+      "id": "cgp_3ef2fdde2c",
+      "company_name": "SD COURTAGE",
+      "city": "Couzon-Au-Mont-D'Or",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33636071727",
+      "email": "sdcourtage.sasu@gmail.com"
+    },
+    {
+      "id": "cgp_c092c5fe65",
+      "company_name": "VALDAINE PATRIMOINE",
+      "city": "Lyon",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33625683737",
+      "email": "valery.delabatie@valdaine-patrimoine.com"
+    },
+    {
+      "id": "cgp_3342917cad",
+      "company_name": "VICTOIRE GESTION PRIVEE",
+      "city": "Chaponost",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33674735327",
+      "email": "beatrice.dupont@club-elite-patrimoine-prive.fr"
+    },
+    {
+      "id": "cgp_d57072508d",
+      "company_name": "A.D. GESTION PRIVEE",
       "city": "Paris",
       "department": "75",
       "activities": [
@@ -127,9 +868,909 @@
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-08-25",
-      "phone": "+33621410960",
+      "first_seen": "2026-09-01",
+      "phone": "+33664424913",
+      "email": "adreux@adgestionprivee.com"
+    },
+    {
+      "id": "cgp_1dadcc6fa5",
+      "company_name": "ADK PATRIMOINE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33609876782",
+      "email": "ak@adkpatrimoine.com"
+    },
+    {
+      "id": "cgp_e1a0c65d74",
+      "company_name": "AG PARTNERS",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33635376818",
+      "email": "alexis.garcia@ag-partners.fr"
+    },
+    {
+      "id": "cgp_c0d2751bbc",
+      "company_name": "ALTRIDE FAMILY OFFICE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33145541803",
+      "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+    },
+    {
+      "id": "cgp_26421fb7ca",
+      "company_name": "ARCEUS FINANCE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33679362495",
+      "email": "nicolas.reboud@arceusfinance.com"
+    },
+    {
+      "id": "cgp_a51e782adc",
+      "company_name": "ARGUIN CONSEIL",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33603782439",
+      "email": "alex.desagazan@gmail.com"
+    },
+    {
+      "id": "cgp_491c53fa7b",
+      "company_name": "ARMONYS PATRIMOINE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33134662457",
       "email": ""
+    },
+    {
+      "id": "cgp_e968c01d72",
+      "company_name": "ASTEO FINANCE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33142561149",
+      "email": "atd@asteofinance.com"
+    },
+    {
+      "id": "cgp_1fdfd54730",
+      "company_name": "BALLMONT GESTION PRIVEE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33661461111",
+      "email": "g.chaumeron@ballmont.fr"
+    },
+    {
+      "id": "cgp_458b436842",
+      "company_name": "BC CONSEILS",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33617725451",
+      "email": "bc@livaoffice.com"
+    },
+    {
+      "id": "cgp_36159484a5",
+      "company_name": "BCR FINANCES",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33145633507",
+      "email": "info@bcrfinances.com"
+    },
+    {
+      "id": "cgp_ae60cfcdbb",
+      "company_name": "BGCI FINANCE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33685206903",
+      "email": "garnierbaptiste3@gmail.com"
+    },
+    {
+      "id": "cgp_6c02ebd73b",
+      "company_name": "CAPINVEST",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33673694047",
+      "email": ""
+    },
+    {
+      "id": "cgp_b57fd047a6",
+      "company_name": "CE PATRIMOINE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33664814737",
+      "email": "contact@cepatrimoine.fr"
+    },
+    {
+      "id": "cgp_e20f3ed9d1",
+      "company_name": "CÔME GESTION PRIVÉE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33186959375",
+      "email": "julien.magitteri@lefamilyoffice.com"
+    },
+    {
+      "id": "cgp_c6b42e6d07",
+      "company_name": "CPF COURTAGE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33607827422",
+      "email": "contact@cpfcourtage.fr"
+    },
+    {
+      "id": "cgp_21866929f1",
+      "company_name": "EL CONSEILS",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33140761743",
+      "email": "elise@elconseils.com"
+    },
+    {
+      "id": "cgp_5f985b4677",
+      "company_name": "FINANCIERE ORA",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "cgp_d86f0eafbe",
+      "company_name": "FINANCIERE PREVOST",
+      "city": "Paris 16",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33619212042",
+      "email": "sprevost@financiereprevost.com"
+    },
+    {
+      "id": "cgp_8cfef72025",
+      "company_name": "GF PATRIMOINE",
+      "city": "Bp 270 75015\n\t\t\t\t\t\t\t\t\t\t\t\t\tParis",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33686186907",
+      "email": "guillaume.faller@aimingway.com"
+    },
+    {
+      "id": "cgp_655c0f5208",
+      "company_name": "ILYOR GESTION PRIVÉE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33674975020",
+      "email": "gestionprivee@remoissenet.net"
+    },
+    {
+      "id": "cgp_b727c6a007",
+      "company_name": "INITIAL FAMILY OFFICE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33647336212",
+      "email": "hubert@initialfo.com"
+    },
+    {
+      "id": "cgp_f03d1933d2",
+      "company_name": "JLH PATRIMOINE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33188809997",
+      "email": "contact@jlhpatrimoine.com"
+    },
+    {
+      "id": "cgp_b3ed734bbf",
+      "company_name": "M&O PATRIMOINE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33661692504",
+      "email": "rgigou@saintclair-patrimoine.fr"
+    },
+    {
+      "id": "cgp_a623213c19",
+      "company_name": "MCB FINANCES",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33981823182",
+      "email": "contact@mcbfinances.fr"
+    },
+    {
+      "id": "cgp_e50f7bb93a",
+      "company_name": "MESNIL FINANCE PATRIMOINE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33156280794",
+      "email": "echevreul@mesnilfinance.com"
+    },
+    {
+      "id": "cgp_9f08945141",
+      "company_name": "MSA FINANCE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33683546690",
+      "email": "alain.gubler@agfinance.fr"
+    },
+    {
+      "id": "cgp_2760726726",
+      "company_name": "RENAULT GESTION PRIVEE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33650681576",
+      "email": "romain@renault-gestionprivee.fr"
+    },
+    {
+      "id": "cgp_877901c94f",
+      "company_name": "RMO CONSEIL",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33664465893",
+      "email": "revecca.mosca@rmoconseil.com"
+    },
+    {
+      "id": "cgp_f8a362ebb8",
+      "company_name": "SEVEC ASSURANCE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33142605015",
+      "email": "contact@sevec.fr"
+    },
+    {
+      "id": "cgp_8b8ae5d4f8",
+      "company_name": "SEVEN CAPITAL MANAGEMENT",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33142330450",
+      "email": "administration@seven-cm.com"
+    },
+    {
+      "id": "cgp_3ccde123b5",
+      "company_name": "TESA ASSURANCES",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33624144413",
+      "email": "patrick.tekian@tesa-assurances.fr"
+    },
+    {
+      "id": "cgp_44b04390bb",
+      "company_name": "2B PATRIMOINE",
+      "city": "Le Mesnil-Esnard",
+      "department": "76",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33650278211",
+      "email": "julien.baker@groupekapital.fr"
+    },
+    {
+      "id": "cgp_a0da74e7cd",
+      "company_name": "CM PATRIMOINE",
+      "city": "La Rochette",
+      "department": "77",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33164378816",
+      "email": "michel.moscovici@cmpatrimoine.com"
+    },
+    {
+      "id": "cgp_5ce483c9f7",
+      "company_name": "CMD PATRIMOINE",
+      "city": "Le Pecq",
+      "department": "78",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33666730684",
+      "email": "cdurreche@gmail.com"
+    },
+    {
+      "id": "cgp_4ebf84b91e",
+      "company_name": "FAA CONSEIL",
+      "city": "Saint-Germain-En-Laye",
+      "department": "78",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33139041903",
+      "email": "francois.auvillain@gmail.com"
+    },
+    {
+      "id": "cgp_01002af340",
+      "company_name": "Aureis",
+      "city": "Levallois Perret",
+      "department": "92",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33673979902",
+      "email": "thibault.vanrenterghem@aureis-gestion.com"
+    },
+    {
+      "id": "cgp_c125a2f0a1",
+      "company_name": "FBP ASSOCIES",
+      "city": "Boulogne Billancourt",
+      "department": "92",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33146104762",
+      "email": "david.fasolo@fbp-associes.fr"
+    },
+    {
+      "id": "cgp_baaafd263e",
+      "company_name": "J.A.M CONSEIL",
+      "city": "Courbevoie",
+      "department": "92",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "cgp_1198f06e0e",
+      "company_name": "JDB PATRIMOINE",
+      "city": "Neuilly Sur Seine",
+      "department": "92",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33620401211",
+      "email": "johannabenaim@gmail.com"
+    },
+    {
+      "id": "cgp_f9295011e6",
+      "company_name": "QM PATRIMOINE",
+      "city": "Boulogne Billancourt",
+      "department": "92",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33681182998",
+      "email": "patrimoine.qm@gmail.com"
+    },
+    {
+      "id": "cgp_c066c03a15",
+      "company_name": "SGA PATRIMOINE",
+      "city": "Neuilly-Sur-Seine",
+      "department": "92",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33147386054",
+      "email": "contact@sga-patrimoine.com"
+    },
+    {
+      "id": "cgp_b6609b1eb1",
+      "company_name": "JK CONSEIL",
+      "city": "Maisons - Alfort",
+      "department": "94",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33760309508",
+      "email": "jkamseu@jk-conseil.io"
+    },
+    {
+      "id": "cgp_e82587ffe6",
+      "company_name": "CD CONSEILS & PATRIMOINE",
+      "city": "Polliat",
+      "department": "01",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33640638899",
+      "email": "contact@clairedumay-conseils.fr"
+    },
+    {
+      "id": "cgp_a0ec0ce3ef",
+      "company_name": "GM CONSEILS",
+      "city": "Amberieu-En-Bugey",
+      "department": "01",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33676229973",
+      "email": "contact@gmconseils.eu"
+    },
+    {
+      "id": "cgp_996d7fb670",
+      "company_name": "ID PATRIMOINE",
+      "city": "Lagord",
+      "department": "17",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33546374040",
+      "email": "compta@idgroupe.fr"
+    },
+    {
+      "id": "cgp_3ab8e7bc53",
+      "company_name": "AMS PATRIMOINE",
+      "city": "Égletons",
+      "department": "19",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33659579187",
+      "email": "msophie.lecluyse@ams-patrimoine.fr"
+    },
+    {
+      "id": "cgp_6f34bd1d63",
+      "company_name": "JPAM PATRIMOINE",
+      "city": "Besançon",
+      "department": "25",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33789303148",
+      "email": "anthony.muselli@jpam-patrimoine.fr"
+    },
+    {
+      "id": "cgp_ff05950634",
+      "company_name": "TARPO PATRIMOINE",
+      "city": "Fouesnant",
+      "department": "29",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33622454193",
+      "email": "tarpo.patrimoine@gmail.com"
+    },
+    {
+      "id": "cgp_5f54587a78",
+      "company_name": "AURORE CONSEIL & PATRIMOINE",
+      "city": "Vernou Sur Brenne",
+      "department": "37",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33664335135",
+      "email": "auroremichaudconseil@gmail.com"
+    },
+    {
+      "id": "cgp_e24f124ec8",
+      "company_name": "LSR PATRIMOINE",
+      "city": "Tours",
+      "department": "37",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33619384361",
+      "email": "ileseur@lsrpatrimoine.fr"
+    },
+    {
+      "id": "cgp_2c27965e72",
+      "company_name": "AB3C PATRIMOINE",
+      "city": "Angers",
+      "department": "49",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33241760860",
+      "email": "ab3c.patrimoine@wanadoo.fr"
+    },
+    {
+      "id": "cgp_86e2eb1bd7",
+      "company_name": "AGORA CONSEIL",
+      "city": "Saint-Martin-Boulogne",
+      "department": "62",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33321104040",
+      "email": "info@agora-conseil.com"
+    },
+    {
+      "id": "cgp_cda55e3820",
+      "company_name": "AMP CONSEIL",
+      "city": "Annecy",
+      "department": "74",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33682181845",
+      "email": "contact@ampconseil.com"
+    },
+    {
+      "id": "cgp_aa184047c9",
+      "company_name": "AV CONSEILS",
+      "city": "Filliere",
+      "department": "74",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33679011127",
+      "email": "guillaume.conjard@avconseils.fr"
+    },
+    {
+      "id": "cgp_826f496e11",
+      "company_name": "SAS SMB PATRIMOINE",
+      "city": "Alex",
+      "department": "74",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33766474557",
+      "email": "f.arnoux@smb-patrimoine.com"
+    },
+    {
+      "id": "cgp_b37842b811",
+      "company_name": "PJ CONSEIL ET PATRIMOINE",
+      "city": "Saint Gelais",
+      "department": "79",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33671374398",
+      "email": "pierre.juin@btcorpconseil.com"
+    },
+    {
+      "id": "cgp_1c312e8539",
+      "company_name": "Y&C PATRIMOINE",
+      "city": "Bressuire",
+      "department": "79",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33672225978",
+      "email": "contact@yc-conseil.fr"
+    },
+    {
+      "id": "cgp_4b08c5aaf3",
+      "company_name": "AXE CONSEILS PATRIMOINE",
+      "city": "Draguignan",
+      "department": "83",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33665982069",
+      "email": "contact@acp.com"
+    },
+    {
+      "id": "cgp_5a6d530717",
+      "company_name": "KGR PATRIMOINE",
+      "city": "Toulon",
+      "department": "83",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33603514219",
+      "email": "kgondon@kgrpatrimoine.fr"
+    },
+    {
+      "id": "cgp_c71d8f777b",
+      "company_name": "MS PATRIMOINE & CONSEIL",
+      "city": "Ollioules",
+      "department": "83",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-01",
+      "phone": "+33685841792",
+      "email": "mathieu.sabatier@mspatrimoine.com"
     }
   ]
 }
