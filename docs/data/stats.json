@@ -1,39 +1,39 @@
 {
-  "total_members": 7311,
-  "new_today": 118,
-  "new_this_week": 126,
-  "new_this_month": 169,
+  "total_members": 7300,
+  "new_today": 4,
+  "new_this_week": 122,
+  "new_this_month": 154,
   "by_association": {
     "cncgp": 2648,
     "affo": 20,
-    "cncef": 4771
+    "cncef": 4760
   },
   "by_activity": {
-    "CIF": 4217,
-    "COA": 4090,
-    "IOBSP": 1890,
-    "Immobilier": 962
+    "CIF": 4215,
+    "COA": 4080,
+    "IOBSP": 1886,
+    "Immobilier": 961
   },
   "by_department": {
-    "75": 1170,
-    "69": 421,
-    "33": 301,
+    "75": 1169,
+    "69": 418,
+    "33": 300,
     "92": 295,
     "13": 288,
     "44": 237,
     "06": 218,
     "31": 218,
     "34": 199,
-    "59": 179,
-    "78": 174,
+    "59": 178,
+    "78": 173,
     "37": 166,
     "38": 146,
-    "83": 143,
+    "83": 141,
     "67": 107,
     "94": 105,
-    "74": 102,
+    "35": 101,
     "64": 101,
-    "35": 100,
+    "74": 101,
     "21": 98
   },
   "total_departments": 99,
@@ -41,42 +41,42 @@
     "cncef": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T10:42:58.852163+00:00",
-      "duration_s": 0.5
+      "timestamp": "2026-09-08T10:15:00.498102+00:00",
+      "duration_s": 1.0
     },
     "cncgp": {
       "status": "success",
-      "count": 2661,
-      "timestamp": "2026-09-01T10:42:58.852163+00:00",
-      "duration_s": 567.2
+      "count": 2655,
+      "timestamp": "2026-09-08T10:15:00.498102+00:00",
+      "duration_s": 577.6
     },
     "anacofi": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T10:42:58.852163+00:00",
-      "duration_s": 4.1
+      "timestamp": "2026-09-08T10:15:00.498102+00:00",
+      "duration_s": 4.6
     },
     "affo": {
       "status": "success",
       "count": 20,
-      "timestamp": "2026-09-01T10:42:58.852163+00:00",
-      "duration_s": 2.1
+      "timestamp": "2026-09-08T10:15:00.498102+00:00",
+      "duration_s": 2.9
     },
     "datagouv_enrichment": {
       "status": "success",
-      "duration_s": 562.5,
-      "timestamp": "2026-09-01T10:42:58.852163+00:00"
+      "duration_s": 1064.9,
+      "timestamp": "2026-09-08T10:15:00.498102+00:00"
     },
     "orias_enrichment": {
       "status": "success",
-      "duration_s": 1480.5,
-      "timestamp": "2026-09-01T10:42:58.852163+00:00"
+      "duration_s": 1449.7,
+      "timestamp": "2026-09-08T10:15:00.498102+00:00"
     },
     "email_enrichment": {
       "status": "success",
-      "duration_s": 36.3,
-      "timestamp": "2026-09-01T10:42:58.852163+00:00"
+      "duration_s": 41.2,
+      "timestamp": "2026-09-08T10:15:00.498102+00:00"
     }
   },
-  "last_updated": "2026-09-01T10:42:58.852163+00:00"
+  "last_updated": "2026-09-08T10:15:00.498102+00:00"
 }
