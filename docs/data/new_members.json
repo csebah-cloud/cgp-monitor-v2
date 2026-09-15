@@ -1,25 +1,10 @@
 {
-  "last_updated": "2026-09-08",
-  "count": 4,
+  "last_updated": "2026-09-15",
+  "count": 3,
   "new_members": [
     {
-      "id": "cgp_30bce107fc",
-      "company_name": "@EXPERT FAMILY",
-      "city": "Vitré",
-      "department": "35",
-      "activities": [
-        "CIF"
-      ],
-      "associations": [
-        "cncgp"
-      ],
-      "first_seen": "2026-09-08",
-      "phone": "+33974972662",
-      "email": "contact@aexpertfamily.fr"
-    },
-    {
-      "id": "cgp_c1cafbfe76",
-      "company_name": "IROKO",
+      "id": "cgp_257f3b04d7",
+      "company_name": "SECULAR ACCESS",
       "city": "Paris",
       "department": "75",
       "activities": [
@@ -28,39 +13,39 @@
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-09-08",
-      "phone": "",
-      "email": ""
+      "first_seen": "2026-09-15",
+      "phone": "+33617559969",
+      "email": "contact@secular.fr"
     },
     {
-      "id": "cgp_70aa620d00",
-      "company_name": "ELITE INVEST PATRIMOINE",
-      "city": "Nice",
-      "department": "16",
+      "id": "cgp_8856a841ce",
+      "company_name": "MERAVA PARTNERS",
+      "city": "Nîmes",
+      "department": "30",
       "activities": [
         "CIF"
       ],
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-09-08",
-      "phone": "+33651193536",
-      "email": ""
+      "first_seen": "2026-09-15",
+      "phone": "+33628401311",
+      "email": "r.brami@twentysixpatrimoine.com"
     },
     {
-      "id": "cgp_7af216aa39",
-      "company_name": "NEO PRO-FIT",
-      "city": "Roquefort",
-      "department": "40",
+      "id": "cgp_f40a699f5d",
+      "company_name": "CABINET DUPRAZ ET ASSOCIES",
+      "city": "Chambéry",
+      "department": "73",
       "activities": [
         "CIF"
       ],
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-09-08",
-      "phone": "+33611797581",
-      "email": "courtage@neoprofit.fr"
+      "first_seen": "2026-09-15",
+      "phone": "+33609248421",
+      "email": "cabinet@dupraz-associes.com"
     }
   ]
 }
