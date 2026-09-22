@@ -1,10 +1,220 @@
 {
-  "last_updated": "2026-09-15",
-  "count": 3,
+  "last_updated": "2026-09-22",
+  "count": 28,
   "new_members": [
     {
-      "id": "cgp_257f3b04d7",
-      "company_name": "SECULAR ACCESS",
+      "id": "cgp_371c758a84",
+      "company_name": "CABINET MISTRETTA",
+      "city": "Nice",
+      "department": "06",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33763442698",
+      "email": "florent@cabinet-mistretta.fr"
+    },
+    {
+      "id": "cgp_12a0cd8fd7",
+      "company_name": "HESTIA PRIVATE OFFICE",
+      "city": "Biot",
+      "department": "06",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33660824661",
+      "email": "charles.mutti@me.com"
+    },
+    {
+      "id": "cgp_9f053d0641",
+      "company_name": "MONARC PATRIMOINE",
+      "city": "Nice",
+      "department": "06",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33628924897",
+      "email": "m.girone@monarcpatrimoine.fr"
+    },
+    {
+      "id": "cgp_ab378ddec0",
+      "company_name": "OLIFAN COURTAGE",
+      "city": "Nice",
+      "department": "06",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33492478450",
+      "email": ""
+    },
+    {
+      "id": "cgp_74ca6a4a88",
+      "company_name": "RIVIERA SILVER KEY",
+      "city": "Nice",
+      "department": "06",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33765219874",
+      "email": "ludovic.levee@rivierasilverkey.com"
+    },
+    {
+      "id": "cgp_5b2c3c3da3",
+      "company_name": "ARKAN INVEST",
+      "city": "Marseille",
+      "department": "13",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33783235242",
+      "email": "contact@arkaninvest.fr"
+    },
+    {
+      "id": "cgp_320b84bfb1",
+      "company_name": "CGC CONSEILS",
+      "city": "Marseille",
+      "department": "13",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33614012610",
+      "email": "caroline.cottet.giraudet@gmail.com"
+    },
+    {
+      "id": "cgp_244f72c85c",
+      "company_name": "ELOI CONSEIL & PATRIMOINE",
+      "city": "Colomiers",
+      "department": "31",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33686142174",
+      "email": "cbort@eloi-conseil.fr"
+    },
+    {
+      "id": "cgp_7e6b6a89a3",
+      "company_name": "CAMELLIA INVEST",
+      "city": "Bordeaux",
+      "department": "33",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33669728468",
+      "email": "lscholly@camellia-invest.com"
+    },
+    {
+      "id": "cgp_6df3cc307e",
+      "company_name": "IREMIA PATRIMOINE",
+      "city": "Bordeaux",
+      "department": "33",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33556006395",
+      "email": "helene.filaretos@iremia-patrimoine.fr"
+    },
+    {
+      "id": "cgp_8b58c0ed4b",
+      "company_name": "TK EQUITY ELEVEN",
+      "city": "Villenave-D'Ornon",
+      "department": "33",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33680725691",
+      "email": "thomas.krommer@tk-equityeleven.com"
+    },
+    {
+      "id": "cgp_e876b76c21",
+      "company_name": "IMIP CONSEILS",
+      "city": "Acigne",
+      "department": "35",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33676502072",
+      "email": "michenet.sebastien@gmail.com"
+    },
+    {
+      "id": "cgp_6ef5c0260c",
+      "company_name": "PERSPECTIVES PATRIMOINE ET ASSURANCE",
+      "city": "Marcq-En-Baroeul",
+      "department": "59",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33677691648",
+      "email": "mbreuil@perspectives-patrimoine.fr"
+    },
+    {
+      "id": "cgp_14e9205d5b",
+      "company_name": "TETE D'OR GESTION PRIVEE",
+      "city": "Lyon",
+      "department": "69",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33689733336",
+      "email": "riva.charlene@hotmail.fr"
+    },
+    {
+      "id": "cgp_ddbf8dfbf4",
+      "company_name": "ARKALYANS",
       "city": "Paris",
       "department": "75",
       "activities": [
@@ -13,39 +223,204 @@
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-09-15",
+      "first_seen": "2026-09-22",
+      "phone": "+33142733674",
+      "email": "contact@arkalyans.fr"
+    },
+    {
+      "id": "cgp_d3d2fe0799",
+      "company_name": "DOMUS EQUITY",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33675672390",
+      "email": "thomas.peretti@domus-equity.com"
+    },
+    {
+      "id": "cgp_a15694c774",
+      "company_name": "LAFAYETTE & WORTH NEXUS",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33603268326",
+      "email": ""
+    },
+    {
+      "id": "cgp_ad596db038",
+      "company_name": "NAYORIS PATRIMOINE",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33771472539",
+      "email": "benjamin.ngongo@nayorispatrimoine.com"
+    },
+    {
+      "id": "cgp_e68e1c09cd",
+      "company_name": "OPTIMAL FINANCE INTL",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33743592231",
+      "email": ""
+    },
+    {
+      "id": "cgp_dff0a3c0f2",
+      "company_name": "SEAPF",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33146229155",
+      "email": "info@seapf.com"
+    },
+    {
+      "id": "cgp_c8a364f337",
+      "company_name": "SECULAR LEGACY",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
       "phone": "+33617559969",
       "email": "contact@secular.fr"
     },
     {
-      "id": "cgp_8856a841ce",
-      "company_name": "MERAVA PARTNERS",
-      "city": "Nîmes",
-      "department": "30",
+      "id": "cgp_ea5a34a3cc",
+      "company_name": "TEF OPERA",
+      "city": "Paris",
+      "department": "75",
       "activities": [
         "CIF"
       ],
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-09-15",
-      "phone": "+33628401311",
-      "email": "r.brami@twentysixpatrimoine.com"
+      "first_seen": "2026-09-22",
+      "phone": "+33651608581",
+      "email": "j.cui@toutenfinance.fr"
     },
     {
-      "id": "cgp_f40a699f5d",
-      "company_name": "CABINET DUPRAZ ET ASSOCIES",
-      "city": "Chambéry",
-      "department": "73",
+      "id": "cgp_70a539470c",
+      "company_name": "AMALTI",
+      "city": "Clichy",
+      "department": "92",
       "activities": [
         "CIF"
       ],
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-09-15",
-      "phone": "+33609248421",
-      "email": "cabinet@dupraz-associes.com"
+      "first_seen": "2026-09-22",
+      "phone": "+33663405931",
+      "email": ""
+    },
+    {
+      "id": "cgp_012398fc6a",
+      "company_name": "PERENEA",
+      "city": "Bellerive-Sur-Allier",
+      "department": "03",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33669956200",
+      "email": "contact@perenea.fr"
+    },
+    {
+      "id": "cgp_2eb96a6718",
+      "company_name": "KLEROS GESTION PRIVÉE",
+      "city": "Saint-Georges-De-Didonne",
+      "department": "17",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33750262568",
+      "email": ""
+    },
+    {
+      "id": "cgp_7bafe2865e",
+      "company_name": "ROUDENN PATRIMOINE",
+      "city": "Lamballe Armor",
+      "department": "22",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33674721268",
+      "email": "antoine.simon.cgp@gmail.com"
+    },
+    {
+      "id": "cgp_472cb5d104",
+      "company_name": "CONFIDENTIA INVEST",
+      "city": "Vaulx",
+      "department": "74",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33606579534",
+      "email": "benoit@confidentiainvest.com"
+    },
+    {
+      "id": "cgp_f321c2c3fd",
+      "company_name": "BG CONSEILS & PATRIMOINE",
+      "city": "Sainte-Marie",
+      "department": "974",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-09-22",
+      "phone": "+33684301425",
+      "email": "b.gavant@dlcp.fr"
     }
   ]
 }
