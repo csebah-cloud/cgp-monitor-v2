@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-10-06",
-  "count": 7,
+  "last_updated": "2026-10-13",
+  "count": 11,
   "new_members": [
     {
-      "id": "cgp_b4c7ca38f3",
-      "company_name": "POLYTROPOS CONSEIL",
-      "city": "Balma",
+      "id": "cgp_ef9525d2e7",
+      "company_name": "HIMPACTE",
+      "city": "Nice",
+      "department": "06",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-10-13",
+      "phone": "+33649306527",
+      "email": "eric.feneon@himpacte.fr"
+    },
+    {
+      "id": "cgp_15012b49da",
+      "company_name": "PIERRE GHIGOU",
+      "city": "Cannes",
+      "department": "06",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-10-13",
+      "phone": "+33660728776",
+      "email": ""
+    },
+    {
+      "id": "cgp_4a38b38a7f",
+      "company_name": "SAS VALDO FAMILY OFFICE",
+      "city": "Cannes",
+      "department": "06",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-10-13",
+      "phone": "+33785105550",
+      "email": ""
+    },
+    {
+      "id": "cgp_d1d0ec83ca",
+      "company_name": "INVEST",
+      "city": "Colomiers",
       "department": "31",
       "activities": [
         "CIF"
@@ -13,73 +58,13 @@
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-10-06",
-      "phone": "+33638307354",
-      "email": "jean-baptiste.lausanne@polytropos-conseil.fr"
-    },
-    {
-      "id": "cgp_f8af9a411f",
-      "company_name": "PATRIMOINE & DIRIGEANTS",
-      "city": "Vizille",
-      "department": "38",
-      "activities": [
-        "CIF"
-      ],
-      "associations": [
-        "cncgp"
-      ],
-      "first_seen": "2026-10-06",
-      "phone": "+33749533977",
-      "email": "jeanclaudelefebvremercury@gmail.com"
-    },
-    {
-      "id": "cgp_76e6691d7a",
-      "company_name": "KAÏ PATRIMOINE",
-      "city": "Orvault",
-      "department": "44",
-      "activities": [
-        "CIF"
-      ],
-      "associations": [
-        "cncgp"
-      ],
-      "first_seen": "2026-10-06",
-      "phone": "+33626993701",
+      "first_seen": "2026-10-13",
+      "phone": "+33686142174",
       "email": ""
     },
     {
-      "id": "cgp_b4d45bda18",
-      "company_name": "EXPANSION PATRIMOINE",
-      "city": "Lille",
-      "department": "59",
-      "activities": [
-        "CIF"
-      ],
-      "associations": [
-        "cncgp"
-      ],
-      "first_seen": "2026-10-06",
-      "phone": "+33610646545",
-      "email": "benjamin@ab-expansion.fr"
-    },
-    {
-      "id": "cgp_60c660025b",
-      "company_name": "FITEKK",
-      "city": "Lyon",
-      "department": "69",
-      "activities": [
-        "CIF"
-      ],
-      "associations": [
-        "cncgp"
-      ],
-      "first_seen": "2026-10-06",
-      "phone": "+33633857295",
-      "email": "contact@fitekk.com"
-    },
-    {
-      "id": "cgp_77180e1afb",
-      "company_name": "ORMELLO",
+      "id": "cgp_39e66ac1cd",
+      "company_name": "BLACKPEARL WEALTH MANAGEMENT",
       "city": "Paris",
       "department": "75",
       "activities": [
@@ -88,14 +73,14 @@
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-10-06",
-      "phone": "+33620841678",
-      "email": "carole.giorgi@gmail.com"
+      "first_seen": "2026-10-13",
+      "phone": "+33750866414",
+      "email": "ali.cherradi@blackpearlparis.com"
     },
     {
-      "id": "cgp_be3e403cb7",
-      "company_name": "MVC",
-      "city": "Trélissac",
+      "id": "cgp_0e04149fc8",
+      "company_name": "I.C.E. FINANCE",
+      "city": "Château-L'Évêque",
       "department": "24",
       "activities": [
         "CIF"
@@ -103,9 +88,84 @@
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-10-06",
-      "phone": "+33671727313",
-      "email": "mickael.verlhiac@gmail.com"
+      "first_seen": "2026-10-13",
+      "phone": "+33553566254",
+      "email": "nicolas@icefinance.fr"
+    },
+    {
+      "id": "cgp_fe6eebaed6",
+      "company_name": "H&R MAISON PATRIMONIALE",
+      "city": "Tours",
+      "department": "37",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-10-13",
+      "phone": "+33781797626",
+      "email": "nicolas.heuzard@maison-patrimoniale.fr"
+    },
+    {
+      "id": "cgp_2b2810c6b2",
+      "company_name": "GRICOURT CONSEIL",
+      "city": "Orléans",
+      "department": "45",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-10-13",
+      "phone": "+33238810664",
+      "email": "accueil@gricourtconseil.com"
+    },
+    {
+      "id": "cgp_9418604629",
+      "company_name": "GL CONSEIL",
+      "city": "Camblain Chatelain",
+      "department": "62",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-10-13",
+      "phone": "+33321013783",
+      "email": "contact@gl-conseil.fr"
+    },
+    {
+      "id": "cgp_5edf36b9ee",
+      "company_name": "OPALE STRATEGIE PATRIMONIALE",
+      "city": "Boulogne-Sur-Mer",
+      "department": "62",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-10-13",
+      "phone": "+33652908151",
+      "email": "contact@opalesp.fr"
+    },
+    {
+      "id": "cgp_039c64f173",
+      "company_name": "YEMA CONSEILS",
+      "city": "Fort De France",
+      "department": "972",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-10-13",
+      "phone": "+33696052120",
+      "email": "hboulasha@antaresfinances.com"
     }
   ]
 }
