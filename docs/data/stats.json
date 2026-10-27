@@ -1,32 +1,32 @@
 {
-  "total_members": 2560,
-  "new_today": 9,
+  "total_members": 2552,
+  "new_today": 11,
   "new_this_week": 20,
-  "new_this_month": 55,
+  "new_this_month": 38,
   "by_association": {
-    "cncgp": 2540,
+    "cncgp": 2532,
     "affo": 20
   },
   "by_activity": {
-    "CIF": 2560
+    "CIF": 2552
   },
   "by_department": {
-    "75": 544,
+    "75": 541,
     "69": 152,
-    "13": 123,
-    "92": 115,
+    "13": 121,
+    "92": 116,
     "33": 106,
     "06": 93,
-    "31": 90,
-    "34": 75,
+    "31": 89,
+    "34": 74,
+    "44": 71,
     "59": 71,
-    "44": 70,
     "78": 60,
-    "38": 54,
-    "35": 46,
-    "64": 43,
+    "38": 52,
+    "35": 45,
     "74": 43,
-    "83": 33,
+    "64": 42,
+    "83": 32,
     "67": 31,
     "94": 30,
     "21": 29,
@@ -37,42 +37,42 @@
     "cncef": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-20T10:35:36.698682+00:00",
-      "duration_s": 3.8
+      "timestamp": "2026-10-27T11:13:58.877206+00:00",
+      "duration_s": 4.7
     },
     "cncgp": {
       "status": "success",
-      "count": 2672,
-      "timestamp": "2026-10-20T10:35:36.698682+00:00",
-      "duration_s": 568.5
+      "count": 2678,
+      "timestamp": "2026-10-27T11:13:58.877206+00:00",
+      "duration_s": 573.5
     },
     "anacofi": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-20T10:35:36.698682+00:00",
-      "duration_s": 4.6
+      "timestamp": "2026-10-27T11:13:58.877206+00:00",
+      "duration_s": 4.1
     },
     "affo": {
       "status": "success",
       "count": 20,
-      "timestamp": "2026-10-20T10:35:36.698682+00:00",
-      "duration_s": 1.6
+      "timestamp": "2026-10-27T11:13:58.877206+00:00",
+      "duration_s": 1.8
     },
     "datagouv_enrichment": {
       "status": "success",
-      "duration_s": 789.8,
-      "timestamp": "2026-10-20T10:35:36.698682+00:00"
+      "duration_s": 762.0,
+      "timestamp": "2026-10-27T11:13:58.877206+00:00"
     },
     "orias_enrichment": {
       "status": "success",
-      "duration_s": 1503.0,
-      "timestamp": "2026-10-20T10:35:36.698682+00:00"
+      "duration_s": 1455.0,
+      "timestamp": "2026-10-27T11:13:58.877206+00:00"
     },
     "email_enrichment": {
       "status": "success",
-      "duration_s": 36.6,
-      "timestamp": "2026-10-20T10:35:36.698682+00:00"
+      "duration_s": 37.3,
+      "timestamp": "2026-10-27T11:13:58.877206+00:00"
     }
   },
-  "last_updated": "2026-10-20T10:35:36.698682+00:00"
+  "last_updated": "2026-10-27T11:13:58.877206+00:00"
 }
