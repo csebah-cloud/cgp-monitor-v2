@@ -1,11 +1,71 @@
 {
-  "last_updated": "2026-11-03",
-  "count": 6,
+  "last_updated": "2026-11-10",
+  "count": 23,
   "new_members": [
     {
-      "id": "cgp_4edf872571",
-      "company_name": "CABINET CLÉMENT LONGEPE",
-      "city": "Carquefou",
+      "id": "cgp_a9b8b85e7f",
+      "company_name": "MAXINE",
+      "city": "Combaillaux",
+      "department": "34",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33660973836",
+      "email": "contact@maxine-mfo.fr"
+    },
+    {
+      "id": "cgp_901033fa19",
+      "company_name": "CHALONO HUGO - BKAP CONSEIL",
+      "city": "Le Vivier Sur Mer",
+      "department": "35",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33612851780",
+      "email": ""
+    },
+    {
+      "id": "cgp_8df30ca6b5",
+      "company_name": "LYSEA",
+      "city": "Noyal Sur Vilaine",
+      "department": "35",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33601780335",
+      "email": "lyseapatrimoine@gmail.com"
+    },
+    {
+      "id": "cgp_de543fb1c0",
+      "company_name": "SYNOS PATRIMOINE",
+      "city": "Rennes",
+      "department": "35",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33299547444",
+      "email": "e.texier@synos-office.fr"
+    },
+    {
+      "id": "cgp_544c730c26",
+      "company_name": "NADOUA CONSEIL & PATRIMOINE",
+      "city": "Treillières",
       "department": "44",
       "activities": [
         "CIF"
@@ -13,13 +73,28 @@
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-11-03",
-      "phone": "+33630849390",
-      "email": ""
+      "first_seen": "2026-11-10",
+      "phone": "+33783172313",
+      "email": "antoinenadoua@yahoo.fr"
     },
     {
-      "id": "cgp_073b026947",
-      "company_name": "DORION FAMILY OFFICE",
+      "id": "cgp_ba502cad94",
+      "company_name": "SARL COLBERT FUSAC",
+      "city": "Nantes",
+      "department": "44",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33649587121",
+      "email": "gquer@colbertgroupe.com"
+    },
+    {
+      "id": "cgp_01d75aa753",
+      "company_name": "AIRIAL PARTNERS",
       "city": "Paris",
       "department": "75",
       "activities": [
@@ -28,43 +103,238 @@
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-11-03",
-      "phone": "",
-      "email": ""
+      "first_seen": "2026-11-10",
+      "phone": "+33769458464",
+      "email": "julien.begu@gmail.com"
     },
     {
-      "id": "cgp_28dff1003a",
-      "company_name": "CARE",
-      "city": "Courbevoie",
-      "department": "92",
+      "id": "cgp_5ea5f84ecf",
+      "company_name": "AVITAL CONSULTING",
+      "city": "Paris",
+      "department": "75",
       "activities": [
         "CIF"
       ],
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-11-03",
-      "phone": "+33660796998",
-      "email": "idriss.achirou@getclovis.fr"
+      "first_seen": "2026-11-10",
+      "phone": "+33649023920",
+      "email": "benjamin.pitoun@jcvcap.com"
     },
     {
-      "id": "cgp_673118f1be",
-      "company_name": "OPTION PATRIMOINE",
-      "city": "Bayonne",
-      "department": "64",
+      "id": "cgp_950ffab85c",
+      "company_name": "INVESTISSEUR AVERTI",
+      "city": "Paris",
+      "department": "75",
       "activities": [
         "CIF"
       ],
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-11-03",
-      "phone": "+33534274000",
+      "first_seen": "2026-11-10",
+      "phone": "+33607272355",
+      "email": "contact@investisseuraverti.com"
+    },
+    {
+      "id": "cgp_93c601efd9",
+      "company_name": "LAVALETTE CAPITAL AND ADVISORY",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33612581494",
+      "email": "ronald.bannout@lavalettecapital.com"
+    },
+    {
+      "id": "cgp_3d1d06d1d4",
+      "company_name": "LLA CAPITAL",
+      "city": "Le Mans",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33783763371",
+      "email": "llahmi@lla-capital.fr"
+    },
+    {
+      "id": "cgp_3e748b0ebd",
+      "company_name": "ORFÉDIS",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33769931227",
       "email": ""
     },
     {
-      "id": "cgp_9e01fa2b8a",
-      "company_name": "CABINET LOU MENGES-HILLAU",
+      "id": "cgp_d36fecfcfe",
+      "company_name": "PLUTOMIA",
+      "city": "Paris",
+      "department": "75",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33669309044",
+      "email": ""
+    },
+    {
+      "id": "cgp_52f662b635",
+      "company_name": "CABINET RIVKA NAVIN",
+      "city": "Boissy-Le-Cutté",
+      "department": "91",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33767862895",
+      "email": ""
+    },
+    {
+      "id": "cgp_a4573b6dd7",
+      "company_name": "CONSTANCE GESTION PRIVÉE",
+      "city": "Sermaise",
+      "department": "91",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33606966894",
+      "email": ""
+    },
+    {
+      "id": "cgp_57cf4b522a",
+      "company_name": "GB CONSEIL PRIVÉ",
+      "city": "Saint Maurice",
+      "department": "94",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33750746070",
+      "email": "gregoire.by@gb-gestion-privee.fr"
+    },
+    {
+      "id": "cgp_9164325688",
+      "company_name": "ATLANTIQUE CONSEIL & INVESTISSEMENT",
+      "city": "Chatelaillon-Plage",
+      "department": "17",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33782929613",
+      "email": "charline@atlantiqueconseilinvestissement.fr"
+    },
+    {
+      "id": "cgp_31b6bc11d4",
+      "company_name": "BWSI",
+      "city": "Dijon",
+      "department": "21",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33380411625",
+      "email": "jeanne.hunot@bwassocies.com"
+    },
+    {
+      "id": "cgp_a3a88225fb",
+      "company_name": "PLATINIUM PATRIMOINE GESTION PRIVEE",
+      "city": "Roche-Lez-Beaupré",
+      "department": "25",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33786428710",
+      "email": "contact@platinium-patrimoine.fr"
+    },
+    {
+      "id": "cgp_e594ff3bf8",
+      "company_name": "LAURENT LE GRIN CONSEIL",
+      "city": "Saint-Pierre-Quiberon",
+      "department": "56",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33651755043",
+      "email": "llegrin@conservateur-conseil.fr"
+    },
+    {
+      "id": "cgp_92fcf9d5e6",
+      "company_name": "MILCENT CAPITAL",
+      "city": "Mulhouse",
+      "department": "68",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33764061935",
+      "email": "noe.milcent@milcent.capital"
+    },
+    {
+      "id": "cgp_53851ae034",
+      "company_name": "MA CGP",
+      "city": "Le Mans",
+      "department": "72",
+      "activities": [
+        "CIF"
+      ],
+      "associations": [
+        "cncgp"
+      ],
+      "first_seen": "2026-11-10",
+      "phone": "+33663601288",
+      "email": "contact@macgp.fr"
+    },
+    {
+      "id": "cgp_effd2867df",
+      "company_name": "BLASQUEZ CAPITAL MANAGEMENT",
       "city": "Annecy",
       "department": "74",
       "activities": [
@@ -73,24 +343,9 @@
       "associations": [
         "cncgp"
       ],
-      "first_seen": "2026-11-03",
-      "phone": "+33673958800",
-      "email": ""
-    },
-    {
-      "id": "cgp_63d0544d06",
-      "company_name": "EI MAXIME VERHOEVEN",
-      "city": "Saint Raphael",
-      "department": "83",
-      "activities": [
-        "CIF"
-      ],
-      "associations": [
-        "cncgp"
-      ],
-      "first_seen": "2026-11-03",
-      "phone": "+33662962459",
-      "email": ""
+      "first_seen": "2026-11-10",
+      "phone": "+33648559884",
+      "email": "felix.blasquez@gmail.com"
     }
   ]
 }
